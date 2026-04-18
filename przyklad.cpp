@@ -23,7 +23,7 @@ int main() {
     Paliwo P;
     Dystans D;
     
-    cout << "Ilość zużytego paliwa x: " << P.Litry(4) << endl;
-    cout << "Zużycie/100KM: " << D.Zuzycie(4, 50) << endl;
+    cout << "Ilosc zuzytego paliwa x: " << P.Litry(4) << endl;
+    cout << "Zuzycie/100KM: " << D.Zuzycie(4, 50) << endl;
     return 0;
 }
